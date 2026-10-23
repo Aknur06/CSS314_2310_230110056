@@ -1,0 +1,6 @@
+5a3a43f - 2026-10-23 : feat: task 8 compute geometry
+4b2c12a - 2026-10-23 : feat: task 7 memory bandwidth saturation
+3671c1d - 2026-10-23 : feat: task 6 race condition forensics
+2890a8e - 2026-10-23 : feat: task 5 overhead crossover
+147bc91 - 2026-10-23 : Add files via upload
+001a23b - 2026-10-23 : Initial commit
